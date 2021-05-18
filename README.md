@@ -1,3 +1,4 @@
 # STEPS TO START A NEW SCRAPY PROJECT
-
-### IN COMMAND LINE- <code>scrapy startproject "project name"</code>
+<ul>
+  <li>IN COMMAND LINE- <code>scrapy startproject "project name"</code></li>
+ </ul>
